@@ -7,11 +7,11 @@
         "MyFighter.DLC.Ghost": "pub:58474-12256-64138-45174",
         "MyFighter.DLC.Bat": "pub:23062-10508-05566-48268",
         "MyFighter.DLC.Dragon": "pub:40426-04003-14310-48814",
-        "[yuen]MyFighter.DLC": "pub:33813-55457-70793-78073",
-        "MyFighter.DLC.DreadfulTeacher": "pub:56368-22383-77556-13642",
-        "[chuxuan]MyFighter.DLC": "pub:72460-80887-74587-26018",
+        "[yuen]MyFighter.DLC": "pub:52438-00981-96056-33775",
+        "MyFighter.DLC.DreadfulTeacher": "github:felixtsu/myfighter-dlc-dreadfulteacher#v0.1.1",
         "MyFighter.DLC.Tesla": "pub:11793-94134-25207-83600",
-        "fightextension": "github:cubicbird/fightextension#v0.2.6"
+        "fightextension": "github:cubicbird/fightextension#v0.2.8",
+        "[chuxuan]MyFighter.DLC": "pub:63949-82253-21229-93481"
     },
     "files": [
         "main.blocks",
